@@ -1,1 +1,1 @@
-function that replaces or adds key/value in a dictionary
+function that returns a new dictionary with all values multiplied by 2
