@@ -1,1 +1,1 @@
-function that prints an integer
+function that executes a function safely
