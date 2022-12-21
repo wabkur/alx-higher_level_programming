@@ -1,1 +1,1 @@
-function that raises a name exception with a message
+function that prints an integer
