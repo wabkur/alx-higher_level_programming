@@ -1,1 +1,1 @@
-function that prints x elements of a list
+function that prints an integer with format
