@@ -1,1 +1,1 @@
-class Square that defines a square by based on 5-square.py
+class Node that defines a node of a singly linked list by
