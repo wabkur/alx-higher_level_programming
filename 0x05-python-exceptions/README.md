@@ -1,1 +1,1 @@
-function that divides element by element 2 lists
+function that raises a type exception
