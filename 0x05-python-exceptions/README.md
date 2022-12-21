@@ -1,1 +1,1 @@
-function that prints the first x elements of a list and only integers
+function that divides 2 integers and prints the result
