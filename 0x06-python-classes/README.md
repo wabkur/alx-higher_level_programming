@@ -1,1 +1,1 @@
-class Square that defines a square by based on 4-square.py
+Python class MagicClass that does exactly the same as the following Python bytecode
