@@ -1,1 +1,1 @@
-Python function def magic_calculation that does exactly the same as the following Python bytecode
+three C functions that print some basic info about Python lists, Python bytes an Python float objects
