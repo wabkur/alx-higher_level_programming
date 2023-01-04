@@ -1,1 +1,1 @@
-class Rectangle that defines a rectangle by based on 0-rectangle.py
+class Rectangle that defines a rectangle by based on 1-rectangle.py
