@@ -1,1 +1,1 @@
-class Rectangle that defines a rectangle by based on 8-rectangle.py
+The N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard. Write a program that solves the N queens problem
