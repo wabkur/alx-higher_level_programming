@@ -1,1 +1,1 @@
-variable identifier which is the memory address in the CPython implementation
+code, do a and b point to the same object Answer with Yes or No
