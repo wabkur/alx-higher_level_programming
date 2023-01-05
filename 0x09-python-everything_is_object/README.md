@@ -1,1 +1,1 @@
- script print
+script print
