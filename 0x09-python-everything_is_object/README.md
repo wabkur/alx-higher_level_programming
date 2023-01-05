@@ -1,1 +1,1 @@
-Answer with Yes or No
+script print
