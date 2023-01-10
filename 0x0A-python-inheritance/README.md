@@ -1,1 +1,1 @@
-class BaseGeometry based on 5-base_geometry.py
+class Rectangle that inherits from BaseGeometry 7-base_geometry.py
