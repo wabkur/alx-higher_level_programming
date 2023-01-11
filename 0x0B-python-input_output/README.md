@@ -1,1 +1,1 @@
-function that returns the JSON representation of an object string
+function that returns an object Python data structure represented by a JSON string
