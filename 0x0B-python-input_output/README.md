@@ -1,1 +1,1 @@
-function that appends a string at the end of a text file UTF8 and returns the number of characters added
+function that returns the JSON representation of an object string
