@@ -1,1 +1,1 @@
-script that displays the average temperature (Fahrenheit) by city ordered by temperature (descending)
+script that displays the top 3 of cities temperature during July and August ordered by temperature (descending)
