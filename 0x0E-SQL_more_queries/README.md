@@ -1,1 +1,1 @@
-script that creates the table force_name on your MySQL server
+script that creates the table id_not_null on your MySQL server
