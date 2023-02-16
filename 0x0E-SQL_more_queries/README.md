@@ -1,1 +1,1 @@
-script that lists all shows, and all genres linked to that show, from the database hbtn_0d_tvshows
+script that uses the hbtn_0d_tvshows database to list all genres not linked to the show Dexter
