@@ -1,1 +1,1 @@
-script that prints “JavaScript is amazing”
+script that prints "JavaScript is amazing"
