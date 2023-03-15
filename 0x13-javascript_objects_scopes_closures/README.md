@@ -1,1 +1,1 @@
-script that concats 2 files
+empty class Rectangle that defines a rectangle
