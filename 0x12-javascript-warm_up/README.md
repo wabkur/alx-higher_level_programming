@@ -1,1 +1,1 @@
-script that prints the addition of 2 integers
+script that computes and prints a factorial
