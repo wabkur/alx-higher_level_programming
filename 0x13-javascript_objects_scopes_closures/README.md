@@ -1,1 +1,1 @@
-class Square that defines a square and inherits
+function that returns the number of occurrences
