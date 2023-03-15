@@ -1,1 +1,1 @@
-script that prints two arguments passed to it
+script that prints My number
