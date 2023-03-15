@@ -1,1 +1,1 @@
-script that computes and prints a factorial
+script to replace the value 12 with 89
