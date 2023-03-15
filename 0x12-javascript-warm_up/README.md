@@ -1,1 +1,1 @@
-script that prints the first argument passed to it
+file that modifies the value of myVar to 333
