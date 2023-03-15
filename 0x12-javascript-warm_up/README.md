@@ -1,1 +1,1 @@
-script that prints My number
+script that prints 3 lines
