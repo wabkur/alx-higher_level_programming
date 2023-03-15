@@ -1,1 +1,1 @@
-function that returns the addition of 2 integers
+script that prints the first argument passed to it
