@@ -1,1 +1,1 @@
-script that prints x times
+script that prints a square
