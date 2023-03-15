@@ -1,1 +1,1 @@
-script that imports a dictionary of occurrences by user id and computes a dictionary of user ids by occurrence
+script that imports an array and computes a new array
