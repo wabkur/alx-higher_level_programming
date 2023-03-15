@@ -1,1 +1,1 @@
-script that prints 3 lines
+script that prints x times
