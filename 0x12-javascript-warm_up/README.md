@@ -1,1 +1,1 @@
-script to replace the value 12 with 89
+function that returns the addition of 2 integers
