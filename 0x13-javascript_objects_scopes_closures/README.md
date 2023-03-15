@@ -1,1 +1,1 @@
-function that converts a number from base 10 to another base passed as argument
+script that imports a dictionary of occurrences by user id and computes a dictionary of user ids by occurrence
