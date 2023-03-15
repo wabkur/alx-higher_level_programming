@@ -1,1 +1,1 @@
-function that increments and calls a function
+script by adding a new function incr that increments the integer value
