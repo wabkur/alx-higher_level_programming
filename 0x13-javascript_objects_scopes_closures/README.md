@@ -1,1 +1,1 @@
-function that returns the number of occurrences
+function that returns the reversed version
