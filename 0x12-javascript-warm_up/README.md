@@ -1,1 +1,1 @@
-script that prints the first argument passed to it
+script that prints two arguments passed to it
