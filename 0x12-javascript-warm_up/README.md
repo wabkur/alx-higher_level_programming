@@ -1,1 +1,1 @@
-script that prints a message depending of the number of arguments passed
+script by adding a new function incr that increments the integer value
