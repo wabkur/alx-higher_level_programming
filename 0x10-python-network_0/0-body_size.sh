@@ -1,3 +1,3 @@
 #!/bin/bash
-#send a GET request to the url specified and print the size of respond body to stdout
-curl -sI "$1" | grep -i
+# send a request to an URL with curl, and displays the size of the body of the response
+curl -s "$1" | wc -c
