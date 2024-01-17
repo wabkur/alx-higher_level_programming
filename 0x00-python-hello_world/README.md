@@ -1,1 +1,1 @@
-Shell script that runs a Python script
+0x00. Python - Hello, World
