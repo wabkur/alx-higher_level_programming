@@ -4,5 +4,6 @@ def uppercase(str):
     for x in str:
         if ord(x) >= 97 and ord(x) <= 123:
             besh += chr(ord(x) - 32)
-            print("{}".format(x), end="")
-        print("")
+            continue
+        besh += x
+        print("{}".format(x), end="")
