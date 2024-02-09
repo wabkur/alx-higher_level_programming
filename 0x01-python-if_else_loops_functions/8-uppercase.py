@@ -6,4 +6,4 @@ def uppercase(str):
             besh += chr(ord(x) - 32)
             continue
         besh += x
-        print("{}".format(x), end="")
+        print("{0}".format(x))
