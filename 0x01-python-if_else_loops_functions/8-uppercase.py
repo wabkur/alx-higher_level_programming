@@ -2,7 +2,7 @@
 def uppercase(str):
     besh = ""
     for x in str:
-        if ord(x) >= 97 and ord(x) <= 123:
+        if ord(x) >= 97 and ord(x) <= 122:
             besh += chr(ord(x) - 32)
             continue
         besh += x
