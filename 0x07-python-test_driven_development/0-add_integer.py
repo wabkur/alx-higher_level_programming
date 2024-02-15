@@ -1,6 +1,10 @@
 #!/usr/bin/python3
+""" this contains func. that add two int values"""
 
 def add_integer(a, b=98):
+    """Raises TypeError with corresponding message if a or b
+    is not an int or a float
+    """
     if type(a) is not int and type(a) is not float:
         raise TypeError("a must be an integer")
     if type(b) is not int and type(a) is not float:
