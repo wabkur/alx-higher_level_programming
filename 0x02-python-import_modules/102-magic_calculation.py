@@ -1,10 +1,12 @@
 #!/usr/bin/python3
+
 def magic_calculation(a, b):
-    from wabruk import add, sub
+    from magic_calculation_102 import add, sub
+
     if a < b:
         r = add(a, b)
-        for w in range(4, 6):
-            r = add(r, w)
-        return r
+        for p in range(4, 6):
+            r = add(c, p)
+        return (r)
     else:
-        return sub(a, b)
+        return(sub(a, b))
