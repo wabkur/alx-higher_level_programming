@@ -1,9 +1,10 @@
 #!/usr/bin/python3
 def uppercase(str):
-    besh = ""
-    for x in str:
-        if ord(x) >= 97 and ord(x) <= 122:
-            besh += chr(ord(x) - 32)
-        else:
-        besh += x
-        print("{:s}".format(x))
+    new_str = ""
+    for r in range(len(str)):
+        if (ord(str[r]) >= 97 and ord(str[r]) <= 122):
+            new_str += chr(ord(str[r]) - 32)
+            continue
+        new_str += str[r]
+
+    print('{0}'.format(new_str))
