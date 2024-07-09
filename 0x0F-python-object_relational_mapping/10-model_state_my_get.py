@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-""" scipt that prints the State object with the name passed as argument from the database
+""" 
+scipt that prints the State object with the name passed
+as argument from the database
 """
 import sys
 from model_state import Base, State
