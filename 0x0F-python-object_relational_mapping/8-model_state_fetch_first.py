@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-A sricpt that prints the fisrt obj from database 
+Prints the fisrt object from database 
 """
 import sys
 from model_state import Base, State
